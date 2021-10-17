@@ -47,4 +47,6 @@ Made with ❤ by [Insane](https://github.com/TheInsanec0der)
 Thanks!
 #
 
-[Vercel](assets/vercel.svg)
+<p align="center">
+<img src="assets/vercel.svg" align="center">
+</p>
