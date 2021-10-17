@@ -1,5 +1,9 @@
 <img src="assets/api_logo.png" height="300" style="margin-left: 300px; !important">
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheInsanec0der%2Fapi&project-name=insane-api&repo-name=api)&nbsp;&nbsp;&nbsp;
+![Vercel](https://vercelbadge.vercel.app/api/TheInsanec0der/api?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+
 ## Getting Started
 ### Must Install:
 - [Node.JS](https://nodejs.org)
@@ -37,3 +41,10 @@ PRs are always welcomed! 🙂
 - Fork this repository.
 - Make your changes in the fork
 - Create a pull request.
+
+Made with ❤ by [Insane](https://github.com/TheInsanec0der)
+<br>
+Thanks!
+#
+
+[Vercel](assets/vercel.svg)
