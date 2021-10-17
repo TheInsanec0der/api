@@ -1,3 +1,8 @@
+/**
+ * NOTE: this endpoint currently does not work & spams the console with errors.
+ */
+
+
 const axios = require("axios").default;
 
 module.exports = {
