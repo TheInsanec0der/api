@@ -5,6 +5,25 @@
 ![Vercel](https://vercelbadge.vercel.app/api/TheInsanec0der/api?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 
 ## Getting Started
+### Project Structure
+```
+./root
+├── assets
+│   ├── api_logo.png
+│   └── startup.png
+├── node_modules
+├── routes
+│   ├── ...
+│   └── index.js
+├── .gitignore
+├── index.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── run.bat
+└── vercel.json
+```
+
 ### Must Install:
 - [Node.JS](https://nodejs.org)
 - [NPM](https://npmjs.com)
